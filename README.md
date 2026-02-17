@@ -80,9 +80,8 @@ Safety First. Legality First. Rational Development.
 
 - 安全优先
 - 合法为本
-- 尊重公众
-- 保护环境
-- 理性进步
+- 尊重、保护
+- 理性、进步
 
 说明：
 

@@ -87,7 +87,7 @@ Safety First. Legality First. Rational Development.
 
 安全为最高原则
 合法为行为底线
-公共共存强调与社会的协调关系
+强调与社会的协调关系
 
 ---
 
